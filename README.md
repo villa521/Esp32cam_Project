@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto tiene como objetivo desarrollar un prototipo de microcontrolador para la detección de desechos sólidos en la orilla del Lago Coquivacoa, específicamente en el área del Centro Comercial Lago Mall. El sistema utiliza un ESP32cam programado en C para tomar imágenes y enviarlas a Supabase, donde una aplicación en Python procesa las imágenes con un modelo de inteligencia artificial (YOLOv5) y las almacena en un bucket diferente.
+Este proyecto tiene como objetivo desarrollar un prototipo de microcontrolador para la detección de desechos sólidos en la orilla del Lago Coquivacoa, específicamente en el Colegio Santa Rosa. El sistema utiliza un ESP32cam programado en C para tomar imágenes y enviarlas a Supabase, donde una aplicación en Python procesa las imágenes con un modelo de inteligencia artificial (YOLOv5) y las almacena en un bucket diferente.
 
 ## Instalación
 
