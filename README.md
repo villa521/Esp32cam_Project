@@ -41,4 +41,4 @@ Este proyecto tiene como objetivo desarrollar un prototipo de microcontrolador p
 
 ## Agradecimientos
 
-Agradecemos al equipo de **Samsung Innovation Campus** por brindarnos los conocimientos necesarios para desarrollar este proyecto. También extendemos nuestro reconocimiento a todas las personas y organizaciones que han contribuido de alguna manera a este proyecto. En particular, reconocemos la valiosa ayuda de los investigadores que nos proporcionaron datos y conocimientos sobre la contaminación del Lago de Maracaibo.
+Agradecemos al equipo de **Samsung Innovation Campus** por brindarnos los conocimientos necesarios para desarrollar este proyecto. También extendemos nuestro reconocimiento a todas las personas y organizaciones que han contribuido de alguna manera a este proyecto. En particular, reconocemos la valiosa ayuda de los investigadores que nos proporcionaron datos y conocimientos sobre la contaminación en la zona del colegio de Santa Rosa.
